@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+*{
+    font-family: Rubik, sans-serif;
+}
+
+.table-head{
+    background-color: #444 !important;
+    border-color: #555;
+    color: #eeeeee !important;
+}
+
+.completed-todo{
+    background-color: darkseagreen !important;
+    border-color: yellowgreen;
+}
+
+.btn-complete{
+    background-color: darkseagreen !important;
+    color: #eeeeee !important;
+    min-width: 61%;
+}
+
+.btn-undo{
+    background-color: #555555 !important;
+    color: #eeeeee !important;
+    min-width: 61%;
+}
+
+.btn-edit {
+    background-color: cornflowerblue !important;
+    color: #eeeeee !important;
+    min-width: 61%;
+}
+
+.btn-delete{
+    background-color: indianred !important;
+    color: #eeeeee !important;
+    min-width: 61%;
+}
+
+.btn-complete:hover{
+    background-color: forestgreen !important;
+}
+
+.btn-undo:hover{
+    background-color: #333 !important;
+}
+
+.btn-edit:hover{
+    background-color: dodgerblue !important;
+}
+
+.btn-delete:hover{
+    background-color: crimson !important;
+}

@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+
+button{
+    font-family: Rubik, sans-serif;
+}
+
+h1.title{
+    font-family: Rubik, sans-serif;
+    color: #eeeeee;
+}
+h1.title:hover{
+    color: #fff !important;
+}
+h1.title:active{
+    color: #fff !important;
+}
+h1.title:visited{
+    color: #eee !important;
+}
+h1.title:focus{
+    color: #fff !important;
+}

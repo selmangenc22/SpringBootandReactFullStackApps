@@ -1,0 +1,11 @@
+.btn-delete{
+    background-color: indianred !important;
+    color: #eeeeee !important;
+    min-width: 61%;
+}
+
+.btn-undo{
+    background-color: #555555 !important;
+    color: #eeeeee !important;
+    min-width: 61%;
+}
